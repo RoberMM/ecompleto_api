@@ -13,5 +13,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 PHP<br>
 JavaScript<br>
 BOOTSTRAP<br>
-JAVASCRIPT<br>
 Editor: Visual Studio Code
